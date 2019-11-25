@@ -1,9 +1,12 @@
 ======================================
 Need to practice - did not understand:
 ======================================
-  3sum - https://leetcode.com/problems/3sum/
+  3sum 
+  https://leetcode.com/problems/3sum/
   
-  Product of self array - https://leetcode.com/problems/product-of-array-except-self/
+  Product of self array 
+  https://leetcode.com/problems/product-of-array-except-self/
   
-  Merge Intervals - https://leetcode.com/problems/merge-intervals/
+  Merge Intervals
+  https://leetcode.com/problems/merge-intervals/
     -Feel okay out this, need to sort the arrays and then do the stuff.
