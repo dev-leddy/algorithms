@@ -10,3 +10,8 @@ Need to practice - did not understand:
   Merge Intervals
   https://leetcode.com/problems/merge-intervals/
     -Feel okay out this, need to sort the arrays and then do the stuff.
+
+  Maximum Product Subarray
+  https://leetcode.com/problems/maximum-product-subarray/
+    -If there are an even number of negatives, to answers is all numbers
+    -If negatives are odd, we need to compare segments
